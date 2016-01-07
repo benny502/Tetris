@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\BlockController.cs">
+    <Files>
+      <File FileName="..\..\Downloads\40936-1402101402154R\Part VII Collisions and Triggers\Unitank\Assets\Scripts\ScoreController.cs" Line="1" Column="1" />
+      <File FileName="..\..\Downloads\40936-1402101402154R\Part VII Collisions and Triggers\Unitank\Assets\Scripts\AlienController.cs" Line="34" Column="19" />
+      <File FileName="Assets\Scripts\BlockController.cs" Line="17" Column="56" />
+      <File FileName="Assets\Scripts\BlockSpawner.cs" Line="13" Column="18" />
+      <File FileName="Assets\Scripts\GameLogic.cs" Line="6" Column="36" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
